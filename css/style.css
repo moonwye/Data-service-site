@@ -1,56 +1,90 @@
 *{
-    margin: 0;
+    margin: 0 auto;
     padding:0;
 }
 
-.header{
-    background-image: black; 
-    padding: 20px 0;
-    background-color:white;
-}
-
-.wrap{
-    width: 1140px;
-    margin: 0 auto;
-}
-
-.header-wrap{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.promo{
-    margin-right: 38px;
-}
-.header-wrap{
-    background-color:#002B40;
-    width: 1500px;
-    top:0;
-    left:0;
-}
-.header-left{
+.content{
     background-image:url(../img/promo.png) ;
-    min-height: 750px;
+    background-color:#002B40;
+    min-height: 800px;
     min-width: 1500px;
-    background-position-x :900px;
-    background-position-y :bottom;
+    background-position-x :right;
+    background-position-y :150px;
     display:flex ;
     justify-content: space-between ;
     background-repeat:no-repeat ;
     align-items: center;
-    margin-left: 32px;
 }
+
+.sub-title{
+    Width: 246px;
+    height: 27px;
+    top: 400px;
+    Left: 184px ;
+    font-family: 'Amiri', serif;
+    font-size: 18px;
+    color:white;
+}
+
 .content-text{
-    margin: 0 ;
+    width: 476px;
+    height: 73px;
+    margin: 0;
     line-height: 58px;
     min-width: 300px;
     min-height: 300px;
     font-family: 'Gothic A1', sans-serif;
     font-size: 68px ;
     font-weight: 400;
+    margin-left: 136px;
 }
+
 .content-text-title{
     color:#72BF00;
-    
+    margin-bottom: 55px;    
+}
+
+.content-text-white{
+    color: white;
+}
+
+.div{
+    Width: 100;
+    Height: 100px;
+    Top: 535px;
+    background-color:#032736;
+    padding: 48px 0;
+    left: 0px;
+    border-radius: 0px;
+}
+
+.text-shlapa{
+    font-family: 'Amiri', serif;
+    font-size: 30px;
+    color:white;
+    margin-left:136px ;
+    height: 20,54px;
+    text-transform: uppercase;
+}
+
+.text-shlapa2{
+    font-family: 'Gothic A1', sans-serif;
+    font-size:17px;
+    font-weight:400;
+    font-style:normal;
+    Size:17px;
+    Line-height: 26,4px;
+    color:white;
+    margin-left:136px ;
+}
+
+.text-shlapa3{
+    font-family: 'Gothic A1', sans-serif;
+    font-size:17px;
+    font-weight:400;
+    font-style:normal;
+    Size:12px;
+    Line-height: 24px;
+    color:white;
+    margin-left:173px ; 
 }
