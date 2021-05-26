@@ -88,3 +88,134 @@
     color:white;
     margin-left:173px ; 
 }
+.categories{
+    background-image:url(../img/2block.png);
+    min-height: 462px;
+    background-repeat: no-repeat;
+    margin-top: 260px;
+    display:flex;
+    width: 1500;
+
+}
+.categories-wrap{
+    width: 1500;
+    
+
+}
+.categories-title{
+    margin-top: 15px;
+    font-family: 'Gothic A1', sans-serif;
+    font-size:35px;
+    color: #002B40;
+
+}
+.categories-title-weign{
+    width: 535px;
+    margin-top:29px ;
+    font-size: 18px;
+    color: #002B40;
+
+}
+.categories-subtitle{
+    margin-top: 100px;
+    font-family: 'Gothic A1', sans-serif;
+    font-size: 12px;
+    color: #5E7177;
+
+}
+.categories-title-weign2{
+    margin-top: 26px;
+    font-family: 'Amiri', serif;
+    font-size: 15px ;
+    color: #002B40;
+}
+.button{
+  
+  background: #EFF2F3;
+  color:#5E7177;
+  padding: 20px 35px; 
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 1;
+  font-weight: 500;
+  width: 156px;
+  height: 35px;
+  margin-left: 126px;
+}
+.categories-learnsmore{
+   display:flow-root; 
+   margin-top: 121px ;
+   margin-left: 126px;
+   font-family:'Gothic A1', sans-serif;
+   font-size:12px ;
+}
+.categories-learnsmore-title{
+   font-family:'Gothic A1', sans-serif;
+   font-size: 36px;
+   Height:80px;
+   margin-top:100px;
+   width: 784px;
+   margin-left: 126px;
+   font-weight: 400px;
+   line-height: 39,71px ;
+   
+}
+.categories-learnsmore-title2{
+    font-family:'Gothic A1', sans-serif;
+    font-size: 36px;
+    Height:80px;
+    color: #00755F;
+    width: 784px;
+    font-weight: 400px; 
+}
+.fegure{
+    Width: 64px;
+    Height: 64px;
+    Top :1744px;
+    Left :126px;
+    margin-top: 87px;
+}
+.fegure-karta{
+display: flex;
+justify-content: space-between;
+margin-top:90px;
+width: 1500;
+}
+.fegure-class{
+    display: flex;
+    
+    height: 150px;
+    width: 1500;
+
+}
+.feguretext1{
+    font-family:'Gothic A1', sans-serif;
+    font-size: 17px;
+    color: #002B40;
+    margin-top: 104px;
+    Line-height:19,8px;
+    width: 191px ;
+    height: 20;
+    margin-left: 10px;
+}
+.feguretext2{
+    font-family: 'Amiri', serif;
+    font-size: 18px;
+    color: #002B40;
+    margin-top: 19px;
+    Line-height:27px;
+    width: 247px ;
+    height: 54;
+    margin-left: 10px;
+}
+.feguretext3{
+    font-family:'Gothic A1', sans-serif;
+    font-size: 15px;
+    color: #002B40;
+    margin-top: 52px;
+    Line-height:24px;
+    text-underline-position: auto;
+    width: 81px ;
+    height: 24;
+    margin-left: 10px;
+}
